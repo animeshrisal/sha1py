@@ -1,1 +1,1 @@
-"sha1py" 
+A sha 1 implementation in python
